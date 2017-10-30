@@ -1,0 +1,73 @@
+
+/*Titres*/
+body{background-image: url("Photo.jpeg");
+	background-attachment: fixed;
+	height: 110vh;
+	background-size: cover;}
+h1 {
+	color: white;
+	font-size: 65px;
+	text-align: center;
+	line-height: 200px; 
+	font-family: 'Indie Flower', cursive;
+	margin-bottom: 200px;
+	
+}
+h2 {color:black
+	font-size:30px;
+	font-family: 'Indie Flower',cursive;
+	}
+
+h3{font-family: 'Indie Flower',cursive; 
+color: white; 
+text-align: center;
+font-size:40px;
+}
+
+h4{font-family: 'Indie Flower',cursive; color: white}
+
+.onglets{ 
+	list-style-type: none; 
+}
+.MenuServices {text-align: center;
+	font-family: 'Indie Flower'
+font-size : 60px;
+color: white}
+
+.logo.png  {background-color: #FFFFFF;
+	 color : #FFFFFF;
+	 font-size: 40px;
+	 position: center;
+ 	display: block;}
+
+.nav-nav-tabs {
+	font-family: 'Indie Flower', cursive; 
+	color: white; 
+	background-position: fixed; 
+	background-image: url(wood.jpeg); 
+	font-size: 44px; 
+	position: fixed ;
+	margin-top: -20px;
+
+}
+.title-landing-page{text-align: center;}
+
+a {color: white;}
+
+li{
+	display: inline;
+	margin-right: 238px;
+
+}
+.Services {color :white;
+font-family: 'Indie Flower', cursive;
+font-size: 50px;
+text-align: center;
+display}
+
+ .contactus{text-align: center;
+ 	border: bottom}
+
+ #name{text-align: center;}
+
+ .formulaire{text-align: center;}
